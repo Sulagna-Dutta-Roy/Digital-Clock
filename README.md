@@ -1,6 +1,6 @@
 # Digital-Clock
 
-<h1>Very First Project</h1>
+<h1>Very First Project Using React</h1>
 
 <h3>How to start the server:</h3>
 <p>Npm Install</p>
